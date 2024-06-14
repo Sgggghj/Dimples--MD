@@ -12,13 +12,13 @@ global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github = process.env.GITHUB || "https://github.com/Vurusian/Virusi-Mbaya-Md";
+global.github = process.env.GITHUB || "https://github.com/justevans/dimples-Md";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VafL5zUKbYMKza6vAv1V";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VafL5zUKbYMKza6vAv1V";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://https://telegra.ph/file/7f03fb699a244da228740.jpg";
-global.devs = "254748721079,254762016957,254110853827,254728746852,255655147353,254728782591";
-global.sudo = process.env.SUDO || "254748721079";
-global.owner = process.env.OWNER_NUMBER || "254748721079,254700505700";
+global.devs = "254703267810,254703267810,25403267810,254703267810,254703267810,254703267810";
+global.sudo = process.env.SUDO || "254703267810";
+global.owner = process.env.OWNER_NUMBER || "254703267810,254703267810";
 global.style = process.env.STYLE || "4";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -47,11 +47,11 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "🦠𝗩𝗜𝗥𝗨𝗦𝗜-𝗠𝗕𝗔𝗬𝗔-𝗠𝗗🦠🦟",
-  author: process.env.PACK_AUTHER || "Virusi-Md",
+  caption: process.env.CAPTION || "DIMPLES -𝗠D",
+  author: process.env.PACK_AUTHER || "dimples-Md",
   packname: process.env.PACK_NAME || "🦠",
-  botname: process.env.BOT_NAME || "𝗩𝗜𝗥𝗨𝗦𝗜-𝗠𝗕𝗔𝗬𝗔-𝗠𝗗",
-  ownername: process.env.OWNER_NAME || "Vurusian",
+  botname: process.env.BOT_NAME || "DIMPLES -𝗠𝗗",
+  ownername: process.env.OWNER_NAME || "justevans",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
