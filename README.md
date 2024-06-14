@@ -2,7 +2,7 @@
 <p align="center">  
 
 ***
- <a aria-label="Dimples-Mbaya-Md is free to use" href="https://github.com/dimples/dimples-Md" target="_blank">
+ <a aria-label="Dimples-Md is free to use" href="https://github.com/dimples/dimples-Md" target="_blank">
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{justevans }/count.svg" alt="dimples-Md :: Visitor's Count" /></p>
@@ -37,9 +37,9 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/254748721079)
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/254703267810)
   
 Join Whatsapp Group -(https://chat.whatsapp.com/Gkaa5BXfTc95a5DqeRjlmm)-
 _____________________
 ### Credits to:
-- [Bro Gifted](https://github.com/mouricedevs)
+- [JUST Mommy](https://github.com/mouricedevs)
