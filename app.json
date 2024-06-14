@@ -1,15 +1,15 @@
 {
-    "name": "virusi-md@1.0.0",
-    "description": "I am Virusi-Mbaya-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+    "name": "Dimples-md@1.0.0",
+    "description": "I am dimples-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
     "logo": "https://telegra.ph/file/8aa6951466328563add47.jpg",
-    "keywords": ["virusi-md", "vurusian", "Virusi-Md"],
+    "keywords": ["dimples-md", "justevans", "dimples-Md"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Virusi Mbaya",
+        "value": "justevans",
         "required": false
       },
   
@@ -26,7 +26,7 @@
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "𝗩𝗜𝗥𝗨𝗦𝗜-𝗠𝗕𝗔𝗬𝗔-𝗠𝗗"
+        "value": "DIMPLES -𝗠𝗗"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -36,7 +36,7 @@
          "SUDO": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254762016957"
+        "value": "254703267810"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -102,7 +102,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254748721079"
+        "value": "254703267810"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -114,12 +114,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "♥️",
+        "value": "😎",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "Virusi-Md",
+        "value": "Dimples-Md",
         "required": false
       }
     },
