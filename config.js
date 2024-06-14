@@ -49,7 +49,7 @@ module.exports = {
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "DIMPLES -𝗠D",
   author: process.env.PACK_AUTHER || "dimples-Md",
-  packname: process.env.PACK_NAME || "🦠",
+  packname: process.env.PACK_NAME || "😎",
   botname: process.env.BOT_NAME || "DIMPLES -𝗠𝗗",
   ownername: process.env.OWNER_NAME || "justevans",
   errorChat: process.env.ERROR_CHAT || "",
@@ -63,7 +63,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "VIRUSI").toUpperCase(),
+  LANG: (process.env.THEME || "JUSTEVANS").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
